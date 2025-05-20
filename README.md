@@ -53,7 +53,7 @@ At present, **DASVader** is unregistered, and both it and its dependencies must 
 3. Run the following command to add DASVader and its required dependencies:
 
    ```julia
-   (v1.11) pkg> add https://github.com/marianoarnaiz/DASvader.jl https://github.com/anowacki/Geodesics.jl https://github.com/anowacki/Seis.jl
+   (v1.11) pkg> add https://github.com/marianoarnaiz/DASvaderDS.jl https://github.com/anowacki/Geodesics.jl https://github.com/anowacki/Seis.jl
    ```
 
 4. Once the installation is complete, you can start using DASVader by loading it into your Julia session:
