@@ -1,6 +1,6 @@
 "DAS VADER MODULE"
 
-module DASVader
+module DASVaderDS
 
 # choose the plot backend
 #const VERBOSE = true  # or false, depending on your use case
