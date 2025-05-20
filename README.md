@@ -6,7 +6,7 @@
 
 # DASvaderDS.jl
 
-DASVaderDS.jl is an open, fast and flexible framework for analysing Distributed Acoustic Sensing (DAS) data in Julia. This is the version for Servers and Headless computers
+DASVaderDS.jl is an open, fast and flexible framework for analysing Distributed Acoustic Sensing (DAS) data in Julia. This is the version for Servers and Headless computers (DS for Display-less System)
 
 
 This `README` provides a brief overview of installing and using DASVader. Comprehensive documentation and examples will be available soon.
