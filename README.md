@@ -59,7 +59,7 @@ At present, **DASVader** is unregistered, and both it and its dependencies must 
 4. Once the installation is complete, you can start using DASVader by loading it into your Julia session:
 
    ```julia
-   julia> using DASVader
+   julia> using DASVaderDS
    ```
 
 ---
